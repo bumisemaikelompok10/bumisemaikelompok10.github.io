@@ -202,7 +202,7 @@ h2 {
 }
 
 #search {
-    background-image: url(https://github.com/bumisemaikelompok10/bumisemaikelompok10.github.io/blob/main/Group%203.png);
+    background-image: url("https://bumisemaikelompok10.github.io/Group%203.png");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
