@@ -1,5 +1,7 @@
 @media screen and (max-width: 922px) {
-    
+  #kontak h3 {
+      font-size: 30px;
+      width: 100%;
 }
 
 @media screen and (max-width: 576px) {
