@@ -105,7 +105,7 @@ body{
 }
 
 #hero{
-    background: linear-gradient(160deg, var(--pr-color), #000);
+    background-image: url("https://bumisemaikelompok10.github.io/background.png");
     height: 113vh;
     width: 100%;
 }
